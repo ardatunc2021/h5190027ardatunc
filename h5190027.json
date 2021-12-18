@@ -1,5 +1,4 @@
-{
-    "player":[
+[
         {
             "imageurl":"https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
             "namelastname":"Fernando Muslera",
@@ -12,7 +11,7 @@
         {
             "imageurl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/AUT_vs._TUR_2016-03-29_%28286%29.jpg",
             "namelastname":"Arda Turan",
-            "about":"Arda Turan, 30 Ocak 1987'de İstanbul'da dünyaya geldi. Futbola da Bayrampaşa'nın Altıntepsi mahallesindeki Altıntepsi Makelspor'da başladı. 1997'den 2000 yılına kadar bu kulüpte oynadı. 2000 yılında Galatasaray'a transfer oldu. 2005 yılına kadar alt yapıda oynadı. 2005-06 sezonunun ikinci yarısında Manisaspor'a kiralandı. Ankaragücü'ne karşı deplasmanda 2-0 kazandıkları karşılaşmada, hem kulüp kariyerindeki hem de Süper Lig'deki ilk golünü attı. Ayrıca bu maç Manisaspor formasıyla çıktığı ilk resmî karşılaşma oldu. Manisaspor'da yarım sezon forma giyen Turan daha sonra Galatasaray'a döndü. Sarı kırmızılı forma ile ilk resmî maçına, 22 Ocak 2005 tarihinde Bursaspor ile oynanan Türkiye Kupası maçında çıktı. Galatasaray'ın 9 Ağustos 2006 tarihinde, Şampiyonlar Ligi 3. ön eleme turu'nda Mladá Boleslav karşısında 5-2 kazandığı karşılaşmada 2 gol atıp 1 asist yaptı. Böylece Galatasaray forması altında ilk resmî golünü attı. Bu kulüpte kaptanlığa kadar yükselen Turan, 2011 yılına kadar çeşitli kulvarlarda toplamda 190 kere Galatasaray formasını giydi ve 44 gol kaydetti. Sarı kırmızılı takım ile, 2007-08 sezonunda Süper Lig, 2004-05 sezonunda Türkiye Kupası ve 2008 yılında Türkiye Süper Kupası şampiyonlukları yaşadı.",
+            "about":"",
             "year":"34",
             "weight":"84.0",
             "height":"1.77",
@@ -21,7 +20,7 @@
         {
             "imageurl":"https://i.pstimaj.com/img/78/740x0/61adff1266a97c54e3d72abc.jpg",
             "namelastname":"Oğulcan Çağlayan",
-            "about":"22 Mart 1996 yılında Ankara'da dünyaya gelen Oğulcan Çağlayan, başarılı bir Türk futbolcudur. Mahalle aralarında sergilediği yeteneği gören ailesi 2006 yılında oturdukları mahallenin futbol takımına kayıt etmiştir. Böylece futbol hayatına Bahçelerüstü Spor Kulübü’nde başlayan Oğulcan, çocukluğundan beri futbol ile ilgilenmektedir. Bahçelerüstü Spor Kulübünde bir yıl boyunca kendi yaş grubunda yapılan maçlarda dikkatleri üzerine çekmiştir. Bir yıl içerisinde de Ankaraspor antrenörleri tarafından keşfedilmiştir ve bu takımın altyapısına transfer edilmiştir. Ankaraspor, MKE Ankaragücü'nün arka bahçesi olarak bilinmektedir. Bu takımın altyapısında gösterdiği performansla yine dikkatleri üzerine toplayan Oğulcan, Ankara Spor'un U14 takımında forma giymeye başlamıştır. Lig boyunca 20 maçta forvet oynamış ve 13 kere fileleri havalandırmıştır. Böylece U14 yaş kategorisinde Türkiye Finalleri'ne katılma hakkı kazanmıştır. Daha sonra ailesinden ayrılıp kariyerine devam etmek için Bursa'nın yolunu tutmuştur. Oğulcan Çağlayan, Ankara doğumludur. Futbolcunun Ankaralı olduğu bilinmektedir. Futbol hayatına burada başlamış, uzun yıllar Ankara'da devam etmiş ve yine ismini burada duyurmuştur. Diğer yandan futbolla ilgili edindiği tüm bilgileri ve tecrübeyi de yine Ankara'nın futbol takımlarından kazanmıştır.",
+            "about":"",
             "year":"25",
             "weight":"75.0",
             "height":"1.88",
@@ -109,4 +108,3 @@
             "wage":"2.200"
         }  
     ]
-}
