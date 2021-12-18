@@ -1,5 +1,4 @@
-{
-    "player":[
+[
         {
             "imageurl":"https://upload.wikimedia.org/wikipedia/commons/3/38/Fernando_Muslera_in_2021.jpg",
             "namelastname":"Fernando Muslera",
@@ -108,5 +107,4 @@
             "height":"1.8",
             "wage":"2.200"
         }  
-    ]
-}
+]
